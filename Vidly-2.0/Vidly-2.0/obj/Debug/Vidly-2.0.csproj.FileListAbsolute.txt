@@ -224,3 +224,9 @@ D:\C#\Project\Vidly-ASP.NET\Vidly-2.0\Vidly-2.0\obj\Debug\Vidly_2._0.Migrations.
 D:\C#\Project\Vidly-ASP.NET\Vidly-2.0\Vidly-2.0\obj\Debug\Vidly_2._0.Migrations.ApplyAnnotationToCustomerName.resources
 D:\C#\Project\Vidly-ASP.NET\Vidly-2.0\Vidly-2.0\obj\Debug\Vidly_2._0.Migrations.AddNameToTheMembershipType.resources
 D:\C#\Project\Vidly-ASP.NET\Vidly-2.0\Vidly-2.0\obj\Debug\Vidly_2._0.Migrations.SetNameOfTheMembershipType.resources
+D:\C#\Project\Vidly-ASP.NET\Vidly-2.0\Vidly-2.0\obj\Debug\Vidly_2._0.Migrations.AddBirthdateToCustomer.resources
+D:\C#\Project\Vidly-ASP.NET\Vidly-2.0\Vidly-2.0\obj\Debug\Vidly_2._0.Migrations.AddMoviesDbsetToIdentity.resources
+D:\C#\Project\Vidly-ASP.NET\Vidly-2.0\Vidly-2.0\obj\Debug\Vidly_2._0.Migrations.StuffsAddedToMoviesModel.resources
+D:\C#\Project\Vidly-ASP.NET\Vidly-2.0\Vidly-2.0\obj\Debug\Vidly_2._0.Migrations.genres.resources
+D:\C#\Project\Vidly-ASP.NET\Vidly-2.0\Vidly-2.0\obj\Debug\Vidly_2._0.Migrations.genresTable.resources
+D:\C#\Project\Vidly-ASP.NET\Vidly-2.0\Vidly-2.0\obj\Debug\Vidly_2._0.Migrations.genres2.resources

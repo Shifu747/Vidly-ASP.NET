@@ -1,3 +1,5 @@
 
 Vidly-2.0/Vidly-2.0/App_Data/aspnet-Vidly-2.0-20220802064224.mdf
 Vidly-2.0/Vidly-2.0/App_Data/aspnet-Vidly-2.0-20220802064224_log.ldf
+*.mdf
+*.ldf
